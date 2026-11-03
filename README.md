@@ -1,4 +1,4 @@
-[README.md](https://github.com/user-attachments/files/34332217/README.md)
+(https://github.com/user-attachments/files/34332217/README.md)
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:1F6FEB&height=180&section=header&text=Rokay%20Lancaster&fontSize=42&fontColor=FFFFFF&desc=Cloud%20%E2%80%A2%20SysAdmin%20%E2%80%A2%20Automation&descAlignY=62&fontAlignY=40" width="100%" alt="Header banner" />
 
 ```bash
