@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:1F6FEB&height=180&section=header&text=Rokay%20Lancaster&fontSize=42&fontColor=FFFFFF&desc=Cloud%20%E2%80%A2%20SysAdmin%20%E2%80%A2%20Automation&descAlignY=62&fontAlignY=40" width="100%" alt="Header banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:1F6FEB&height=180&section=header&text=Rokay%20Lancaster&fontSize=42&fontColor=FFFFFF&desc=Help%20Desk%20%E2%80%A2%20SysAdmin%20%E2%80%A2%20Cloud%20%E2%80%A2%20Automation&descAlignY=62&fontAlignY=40" width="100%" alt="Header banner" />
 
 ```bash
 rokay@svr-sys:~$ whoami
