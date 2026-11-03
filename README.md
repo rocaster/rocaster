@@ -54,7 +54,7 @@ rokay@svr-sys:~$ echo $NEXT_STOP
 
 ### 🤝 Let's connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-58A6FF?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rokay-lancaster-2232b434b/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-58A6FF?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alex-costa-2232b434b)
 [![Website](https://img.shields.io/badge/rokay.dev-000000?style=for-the-badge&logo=framer&logoColor=58A6FF)](https://rokay.dev)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F6FEB,100:000000&height=100&section=footer" width="100%" alt="Footer banner" />
