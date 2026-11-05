@@ -44,6 +44,7 @@ rokay@svr-sys:~$ echo $NEXT_STOP
 | Project | What it does | Built with |
 |---|---|---|
 | [vm-autoescola-automations](https://github.com/rocaster/vm-autoescola-automations) | Self-hosted stack for a driving school: Odoo CRM, WhatsApp notifications to students and daily cloud backups | Docker, Odoo 17, n8n, Evolution API, Rclone |
+| [az900-estudo](https://github.com/rocaster/-az900-estudo) · [live](https://polite-coast-0d1f46c0f.6.azurestaticapps.net/?lang=en) | Free AZ-900 study site in Portuguese and English: 12 modules from Microsoft Learn, 105 quiz questions and a timed 40-question mock exam with a readiness score | HTML, CSS, JavaScript, Azure Static Web Apps, GitHub Actions |
 
 ### 📈 Stats
 
