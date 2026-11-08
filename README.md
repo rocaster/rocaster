@@ -29,6 +29,9 @@ rokay@svr-sys:~$ echo $NEXT_STOP
 ![WhatsApp](https://img.shields.io/badge/Evolution_API-000000?style=flat-square&logo=whatsapp&logoColor=58A6FF)
 ![Bash](https://img.shields.io/badge/Bash-000000?style=flat-square&logo=gnubash&logoColor=58A6FF)
 ![GLPI](https://img.shields.io/badge/GLPI-000000?style=flat-square&logo=helpdesk&logoColor=58A6FF)
+![Python](https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=58A6FF)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=58A6FF)
+![Cosmos DB](https://img.shields.io/badge/Cosmos_DB-000000?style=flat-square&logo=microsoftazure&logoColor=58A6FF)
 
 ### 🔭 What I do
 
@@ -45,6 +48,7 @@ rokay@svr-sys:~$ echo $NEXT_STOP
 |---|---|---|
 | [vm-autoescola-automations](https://github.com/rocaster/vm-autoescola-automations) | Self-hosted stack for a driving school: Odoo CRM, WhatsApp notifications to students and daily cloud backups | Docker, Odoo 17, n8n, Evolution API, Rclone |
 | [az900-estudo](https://github.com/rocaster/-az900-estudo) · [live](https://polite-coast-0d1f46c0f.6.azurestaticapps.net/?lang=en) | Free AZ-900 study site in Portuguese and English: 12 modules from Microsoft Learn, 105 quiz questions and a timed 40-question mock exam with a readiness score | HTML, CSS, JavaScript, Azure Static Web Apps, GitHub Actions |
+| [chemin-des-etoiles](https://github.com/rocaster/chemin-des-etoiles) · [live](https://app-ncl-simulado-d2dgdvhkcphcekhp.canadaeast-01.azurewebsites.net) | Gamified French study app for Canadian immigration (NCLC 5–7, TEF/TCF Canada practice). Also my AZ-104 hands-on lab: secrets in Key Vault read through Managed Identity, Cosmos DB, App Service | Python, Flask, Azure App Service, Cosmos DB, Key Vault, Blob Storage |
 
 ### 📈 Stats
 
