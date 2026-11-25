@@ -8,8 +8,7 @@ rokay@svr-sys:~$ whoami
 rokay@svr-sys:~$ cat languages.txt
 > English, Portuguese, French
 
-rokay@svr-sys:~$ echo $NEXT_STOP
-> Canada 🇨🇦
+rokay@svr-sys:~$ echo 
 ```
 
 ### 🏅 Certifications
